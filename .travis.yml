@@ -1,4 +1,4 @@
-s:
+os:
    - linux
  sudo: false
  addons:
